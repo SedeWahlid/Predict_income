@@ -4,6 +4,9 @@ A supervised learning model with an simple html based interface . It predicts th
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/7143c330-23ed-420a-b860-9d71fb2ba71d)
 
+## Dataset from UCI 
+https://archive.ics.uci.edu/dataset/2/adult
+
 ## Table of Contents
 
 -   [Overview](#overview)
