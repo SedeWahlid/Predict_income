@@ -1,6 +1,6 @@
 # Predict_income
 
-A supervised learning model with an simple html based interface . It predicts the adults income based on the training data set of adult from UCI . 
+A supervised learning model with a simple html based interface . It predicts the adults income based on the training data set of adult from UCI . 
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/7143c330-23ed-420a-b860-9d71fb2ba71d)
 
